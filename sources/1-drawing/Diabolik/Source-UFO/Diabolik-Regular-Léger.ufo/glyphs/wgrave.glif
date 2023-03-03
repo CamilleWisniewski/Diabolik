@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wgrave" format="2">
+  <advance width="689"/>
+  <unicode hex="1E81"/>
+  <outline>
+    <component base="w"/>
+    <component base="grave" xOffset="267.5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>w</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>w</string>
+  <key>com.fontlab.recipe</key>
+  <string>w+grave</string>
+  </dict>
+  </lib>
+</glyph>
