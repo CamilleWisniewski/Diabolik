@@ -5,11 +5,11 @@ It is a variable typeface ranging from a thin to a very bold weight. A second ax
 ## Specimen
 http://camillewisniewski.fr/diabolik.html
 ![Specimen 1](https://github.com/CamilleWisniewski/Diabolik/blob/master/documentation/Diabolik-leger.jpg)
-![Specimen 2](https://github.com/CamilleWisniewski/tehroc/blob/main/documentation/Diabolik-leger-arrondi.jpg)
+![Specimen 2](https://github.com/CamilleWisniewski/Diabolik/blob/master/documentation/Diabolik-leger-arrondi.jpg)
 ![Specimen 3](https://github.com/CamilleWisniewski/Diabolik/blob/master/documentation/Diabolik-courant.jpg)
-![Specimen 4](https://github.com/CamilleWisniewski/tehroc/blob/main/documentation/Diabolik-courant-arrondi.jpg)
+![Specimen 4](https://github.com/CamilleWisniewski/Diabolik/blob/master/documentation/Diabolik-courant-arrondi.jpg)
 ![Specimen 5](https://github.com/CamilleWisniewski/Diabolik/blob/master/documentation/Diabolik-gras.jpg)
-![Specimen 6](https://github.com/CamilleWisniewski/tehroc/blob/main/documentation/Diabolik-gras-arrondi.jpg)
+![Specimen 6](https://github.com/CamilleWisniewski/Diabolik/blob/master/documentation/Diabolik-gras-arrondi.jpg)
 
 ## License
 
