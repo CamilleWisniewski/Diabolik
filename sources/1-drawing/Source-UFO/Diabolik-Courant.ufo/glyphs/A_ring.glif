@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="2">
+  <advance width="609"/>
+  <unicode hex="00C5"/>
+  <outline>
+    <component base="A"/>
+    <component base="ring" xOffset="213" yOffset="175"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>A</string>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni030A</string>
+  </dict>
+  </lib>
+</glyph>

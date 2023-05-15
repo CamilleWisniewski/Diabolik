@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="2">
+  <advance width="211"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="176" y="500" type="line"/>
+      <point x="138" y="284" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="37" y="0" type="line"/>
+      <point x="53" y="284" type="line"/>
+      <point x="65" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>i</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>i</string>
+  <key>com.fontlab.recipe</key>
+  <string>i%</string>
+  </dict>
+  </lib>
+</glyph>

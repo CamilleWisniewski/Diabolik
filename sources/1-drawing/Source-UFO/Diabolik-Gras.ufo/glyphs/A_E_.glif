@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="861"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="449" y="700" type="line"/>
+      <point x="449" y="591.23" type="line"/>
+      <point x="449" y="122.507" type="line"/>
+      <point x="449" y="0" type="line"/>
+      <point x="829" y="0" type="line"/>
+      <point x="829" y="220" type="line"/>
+      <point x="629" y="179" type="line"/>
+      <point x="629" y="214.509" type="line"/>
+      <point x="629" y="222.683" type="line"/>
+      <point x="629" y="265" type="line"/>
+      <point x="759" y="234" type="line"/>
+      <point x="759" y="444" type="line"/>
+      <point x="629" y="444" type="line"/>
+      <point x="629" y="487.91" type="line"/>
+      <point x="629" y="521" type="line"/>
+      <point x="819" y="480" type="line"/>
+      <point x="819" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="449" y="700" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="309" y="151" type="line"/>
+      <point x="449" y="117" type="line"/>
+      <point x="449" y="0" type="line"/>
+      <point x="629" y="0" type="line"/>
+      <point x="629" y="551" type="line"/>
+      <point x="629" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="311" type="line"/>
+      <point x="449" y="454.834" type="line"/>
+      <point x="449" y="409.523" type="line"/>
+      <point x="449" y="311" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>E</string>
+  <key>com.fontlab.recipe</key>
+  <string>A_E</string>
+  </dict>
+  </lib>
+</glyph>

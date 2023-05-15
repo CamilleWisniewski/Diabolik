@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="577"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <component base="D" xOffset="40"/>
+    <contour>
+      <point x="40.0019" y="326" type="line"/>
+      <point x="40.0019" y="406" type="line"/>
+      <point x="288.282" y="406" type="line"/>
+      <point x="288.282" y="286" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>D</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>D</string>
+  <key>com.fontlab.recipe</key>
+  <string>D+&lt;50~50hyphen%</string>
+  </dict>
+  </lib>
+</glyph>

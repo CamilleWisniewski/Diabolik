@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="669"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <component base="D" xOffset="35"/>
+    <component base="hyphen" xScale="1.2414" xOffset="-27.0681" yOffset="99"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>D</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>D</string>
+  <key>com.fontlab.recipe</key>
+  <string>D+&lt;50~50hyphen%</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="2">
+  <advance width="471"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <component base="Y"/>
+    <component base="acute" xOffset="162" yOffset="185"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Y</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Y</string>
+  <key>com.fontlab.recipe</key>
+  <string>Y+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

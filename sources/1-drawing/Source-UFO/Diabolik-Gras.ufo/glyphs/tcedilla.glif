@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcedilla" format="2">
+  <advance width="449"/>
+  <unicode hex="0163"/>
+  <outline>
+    <component base="t" xOffset="37"/>
+    <contour>
+      <point x="272" y="-120" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="62" y="-110" type="line"/>
+      <point x="25" y="-205" type="line"/>
+      <point x="215" y="-205" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>t</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>t</string>
+  <key>com.fontlab.recipe</key>
+  <string>t+uni0326</string>
+  </dict>
+  </lib>
+</glyph>

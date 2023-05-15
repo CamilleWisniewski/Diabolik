@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ycircumflex" format="2">
+  <advance width="471"/>
+  <unicode hex="0176"/>
+  <outline>
+    <component base="Y"/>
+    <component base="circumflex" xOffset="119.67" yOffset="125"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Y</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Y</string>
+  <key>com.fontlab.recipe</key>
+  <string>Y+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

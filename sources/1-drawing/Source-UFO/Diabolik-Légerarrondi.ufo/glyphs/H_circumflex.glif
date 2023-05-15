@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcircumflex" format="2">
+  <advance width="526"/>
+  <unicode hex="0124"/>
+  <outline>
+    <component base="H"/>
+    <component base="circumflex" xOffset="150.17" yOffset="126"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
+  <key>com.fontlab.recipe</key>
+  <string>H+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

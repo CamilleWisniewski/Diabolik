@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="2">
+  <advance width="537"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="40" y="700" type="line"/>
+      <point x="239.809" y="700.132" type="line" smooth="yes"/>
+      <point x="461.865" y="700.279"/>
+      <point x="491.328" y="455"/>
+      <point x="491.016" y="351.246" type="curve" smooth="yes"/>
+      <point x="490.665" y="234.697"/>
+      <point x="459.769" y="0"/>
+      <point x="239.769" y="0" type="curve" smooth="yes"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="119.92" y="79.3558" type="line"/>
+      <point x="212.471" y="79.3558" type="line"/>
+      <point x="342.021" y="83.7717"/>
+      <point x="397.37" y="263.914"/>
+      <point x="397.37" y="409.54" type="curve" smooth="yes"/>
+      <point x="397.37" y="517.081"/>
+      <point x="336.675" y="617.955"/>
+      <point x="242" y="617.929" type="curve" smooth="yes"/>
+      <point x="150" y="617.905" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

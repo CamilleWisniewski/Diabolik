@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis" format="2">
+  <advance width="882"/>
+  <unicode hex="1E85"/>
+  <outline>
+    <component base="w"/>
+    <component base="dieresis" xOffset="295" yOffset="-124"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>w</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>w</string>
+  <key>com.fontlab.recipe</key>
+  <string>w+dieresis</string>
+  </dict>
+  </lib>
+</glyph>

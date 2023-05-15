@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="2">
+  <advance width="277"/>
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="247" y="190" type="line"/>
+      <point x="257" y="290" type="line"/>
+      <point x="57" y="290" type="line"/>
+      <point x="57" y="200" type="line"/>
+      <point x="20" y="125" type="line"/>
+      <point x="190" y="125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+^comma%</string>
+  </dict>
+  </lib>
+</glyph>

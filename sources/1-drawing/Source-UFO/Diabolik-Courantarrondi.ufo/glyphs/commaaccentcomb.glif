@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="2">
+  <advance width="177"/>
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="141" y="180" type="curve" smooth="yes"/>
+      <point x="150.483" y="197.692"/>
+      <point x="153.7" y="220.2"/>
+      <point x="157" y="240" type="curve"/>
+      <point x="57" y="240" type="line"/>
+      <point x="57" y="223.5"/>
+      <point x="55.6831" y="205.821"/>
+      <point x="51" y="190" type="curve" smooth="yes"/>
+      <point x="43.167" y="163.537"/>
+      <point x="32.21" y="139.75"/>
+      <point x="20" y="115" type="curve"/>
+      <point x="90" y="115" type="line"/>
+      <point x="108.81" y="136.45"/>
+      <point x="127.522" y="154.855"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+^comma%</string>
+  </dict>
+  </lib>
+</glyph>

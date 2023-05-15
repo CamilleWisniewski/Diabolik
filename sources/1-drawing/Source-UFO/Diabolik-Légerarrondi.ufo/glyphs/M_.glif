@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="2">
+  <advance width="629"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="322" y="200" type="curve"/>
+      <point x="302" y="200" type="line"/>
+      <point x="191.711" y="559.606"/>
+      <point x="161" y="680.014"/>
+      <point x="118.084" y="680" type="curve"/>
+      <point x="54.9947" y="680.014"/>
+      <point x="51.7243" y="407.946"/>
+      <point x="56" y="0" type="curve"/>
+      <point x="36" y="0" type="line"/>
+      <point x="34.9658" y="421.003"/>
+      <point x="26.0024" y="700"/>
+      <point x="116" y="700" type="curve"/>
+      <point x="116" y="700" type="line"/>
+      <point x="183.552" y="700"/>
+      <point x="206.325" y="577.424"/>
+      <point x="312" y="225" type="curve"/>
+      <point x="417.689" y="577.438"/>
+      <point x="440.448" y="700"/>
+      <point x="508" y="700" type="curve"/>
+      <point x="508" y="700" type="line"/>
+      <point x="598" y="700"/>
+      <point x="589" y="421"/>
+      <point x="588" y="0" type="curve"/>
+      <point x="568" y="0" type="line"/>
+      <point x="572" y="408.13"/>
+      <point x="569" y="680.014"/>
+      <point x="505.916" y="680" type="curve"/>
+      <point x="463" y="680.014"/>
+      <point x="432.258" y="559.65"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="2">
+  <advance width="361"/>
+  <unicode hex="0135"/>
+  <outline>
+    <component base="circumflex" xOffset="150.67" yOffset="-50"/>
+    <contour>
+      <point x="35" y="-226" type="curve"/>
+      <point x="35" y="-117" type="line"/>
+      <point x="197" y="-169" type="line"/>
+      <point x="203" y="284" type="line"/>
+      <point x="215" y="500" type="line"/>
+      <point x="326" y="500" type="line"/>
+      <point x="288" y="284" type="line"/>
+      <point x="322" y="-226" type="line"/>
+      <point x="216" y="-257"/>
+      <point x="144" y="-257"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>j</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>j</string>
+  <key>com.fontlab.recipe</key>
+  <string>j+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

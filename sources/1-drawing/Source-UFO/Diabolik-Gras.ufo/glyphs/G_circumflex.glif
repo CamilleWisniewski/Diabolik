@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcircumflex" format="2">
+  <advance width="615"/>
+  <unicode hex="011C"/>
+  <outline>
+    <component base="G"/>
+    <component base="circumflex" xOffset="127.67" yOffset="125"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>G</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>G</string>
+  <key>com.fontlab.recipe</key>
+  <string>G+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="2">
+  <advance width="436"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <component base="o"/>
+    <contour>
+      <point x="96.8261" y="-110" type="line"/>
+      <point x="236.174" y="590" type="line"/>
+      <point x="357.174" y="590" type="line"/>
+      <point x="177.826" y="-110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>o</string>
+  <key>com.fontlab.recipe</key>
+  <string>o+slash</string>
+  </dict>
+  </lib>
+</glyph>

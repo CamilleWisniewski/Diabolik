@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="atilde" format="2">
+  <advance width="731"/>
+  <unicode hex="00E3"/>
+  <outline>
+    <component base="a"/>
+    <component base="tilde" xOffset="107" yOffset="-8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>a</string>
+  <key>com.fontlab.recipe</key>
+  <string>a+tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

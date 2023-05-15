@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obreve" format="2">
+  <advance width="432"/>
+  <unicode hex="014F"/>
+  <outline>
+    <component base="o"/>
+    <component base="breve" xOffset="116.5" yOffset="-100"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>o</string>
+  <key>com.fontlab.recipe</key>
+  <string>o+breve</string>
+  </dict>
+  </lib>
+</glyph>

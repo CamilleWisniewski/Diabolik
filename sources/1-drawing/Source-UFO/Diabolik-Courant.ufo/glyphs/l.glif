@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="2">
+  <advance width="195"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="160" y="750" type="line"/>
+      <point x="122" y="534" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="37" y="0" type="line"/>
+      <point x="37" y="534" type="line"/>
+      <point x="49" y="750" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>n</string>
+  </dict>
+  </lib>
+</glyph>

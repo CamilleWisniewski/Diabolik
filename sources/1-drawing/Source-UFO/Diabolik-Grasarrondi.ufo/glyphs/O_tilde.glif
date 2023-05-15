@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="2">
+  <advance width="610"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <component base="O"/>
+    <component base="tilde" xOffset="158" yOffset="164"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  <key>com.fontlab.recipe</key>
+  <string>O+tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

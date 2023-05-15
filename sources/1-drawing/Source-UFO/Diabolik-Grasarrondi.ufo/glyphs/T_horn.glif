@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+  <advance width="622"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="365.049" y="99.1654" type="curve" smooth="yes"/>
+      <point x="225.168" y="99.3308" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="35.8838" y="700" type="line"/>
+      <point x="256.314" y="700" type="line"/>
+      <point x="249.809" y="594.923" type="line"/>
+      <point x="319" y="594.867" type="line" smooth="yes"/>
+      <point x="462" y="594.753"/>
+      <point x="585" y="518"/>
+      <point x="585" y="355" type="curve" smooth="yes"/>
+      <point x="585" y="270"/>
+      <point x="533.049" y="98.9668"/>
+    </contour>
+    <contour>
+      <point x="230.961" y="228.356" type="line"/>
+      <point x="297.103" y="228" type="line" smooth="yes"/>
+      <point x="374.111" y="227.586"/>
+      <point x="405.836" y="285"/>
+      <point x="405.979" y="355" type="curve" smooth="yes"/>
+      <point x="406.143" y="435"/>
+      <point x="350" y="464.955"/>
+      <point x="292" y="464.927" type="curve" smooth="yes"/>
+      <point x="245" y="464.905" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>P</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>P</string>
+  </dict>
+  </lib>
+</glyph>

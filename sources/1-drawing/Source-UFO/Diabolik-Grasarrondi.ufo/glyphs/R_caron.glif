@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron" format="2">
+  <advance width="576"/>
+  <unicode hex="0158"/>
+  <outline>
+    <component base="R"/>
+    <component base="caron" xOffset="74.6705" yOffset="125"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>R</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>R</string>
+  <key>com.fontlab.recipe</key>
+  <string>R+caron</string>
+  </dict>
+  </lib>
+</glyph>

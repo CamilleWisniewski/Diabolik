@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ugrave" format="2">
+  <advance width="513"/>
+  <unicode hex="00D9"/>
+  <outline>
+    <component base="U"/>
+    <component base="grave" xOffset="171.078" yOffset="186"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>U</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>U</string>
+  <key>com.fontlab.recipe</key>
+  <string>U+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

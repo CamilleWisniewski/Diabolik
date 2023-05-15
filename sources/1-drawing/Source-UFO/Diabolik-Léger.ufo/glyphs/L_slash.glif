@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+  <advance width="502"/>
+  <unicode hex="0141"/>
+  <outline>
+    <component base="L" xOffset="62"/>
+    <component base="endash" xScale="1.1327" xyScale="0.654" yxScale="-0.5" yScale="0.866" xOffset="79.2011" yOffset="60.6758"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>L-30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>L</string>
+  <key>com.fontlab.recipe</key>
+  <string>L+~endash</string>
+  </dict>
+  </lib>
+</glyph>

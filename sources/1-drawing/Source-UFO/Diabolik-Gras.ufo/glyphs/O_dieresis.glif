@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="2">
+  <advance width="618"/>
+  <unicode hex="00D6"/>
+  <outline>
+    <component base="O"/>
+    <component base="dieresis" xOffset="81"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  <key>com.fontlab.recipe</key>
+  <string>O+uni0308</string>
+  </dict>
+  </lib>
+</glyph>

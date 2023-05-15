@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gdotaccent" format="2">
+  <advance width="643"/>
+  <unicode hex="0120"/>
+  <outline>
+    <component base="G" xOffset="-0.0013"/>
+    <component base="dotaccent" xOffset="231.64" yOffset="153"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>G</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>G</string>
+  <key>com.fontlab.recipe</key>
+  <string>G+dotaccent</string>
+  </dict>
+  </lib>
+</glyph>

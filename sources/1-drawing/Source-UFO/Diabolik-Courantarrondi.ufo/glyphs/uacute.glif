@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uacute" format="2">
+  <advance width="550"/>
+  <unicode hex="00FA"/>
+  <outline>
+    <component base="u"/>
+    <component base="acute" xOffset="152.5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>u</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>u</string>
+  <key>com.fontlab.recipe</key>
+  <string>u+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

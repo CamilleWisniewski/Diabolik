@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emacron" format="2">
+  <advance width="447"/>
+  <unicode hex="0112"/>
+  <outline>
+    <component base="E"/>
+    <component base="macron" xOffset="79.1705" yOffset="193"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>E</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>E</string>
+  <key>com.fontlab.recipe</key>
+  <string>E+macron</string>
+  </dict>
+  </lib>
+</glyph>

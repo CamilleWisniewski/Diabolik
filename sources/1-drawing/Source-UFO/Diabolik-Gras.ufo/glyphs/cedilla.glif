@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="2">
+  <advance width="287"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="257" y="-130" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="57" y="-120" type="line"/>
+      <point x="20" y="-215" type="line"/>
+      <point x="200" y="-215" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+uni0327</string>
+  </dict>
+  </lib>
+</glyph>

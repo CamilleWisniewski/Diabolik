@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute" format="2">
+  <advance width="531"/>
+  <unicode hex="015A"/>
+  <outline>
+    <component base="S"/>
+    <component base="acute" xOffset="173" yOffset="185"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>S</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>S</string>
+  <key>com.fontlab.recipe</key>
+  <string>S+acute</string>
+  </dict>
+  </lib>
+</glyph>

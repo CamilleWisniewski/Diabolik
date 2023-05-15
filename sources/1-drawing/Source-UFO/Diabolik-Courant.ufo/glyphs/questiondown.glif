@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="2">
+  <advance width="381"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="300.053" y="320" type="line"/>
+      <point x="300.053" y="162.401" type="line"/>
+      <point x="249.253" y="95.3388"/>
+      <point x="170.898" y="-42.6033"/>
+      <point x="169.801" y="-113.852" type="curve"/>
+      <point x="320.053" y="-79.9401" type="line"/>
+      <point x="320.053" y="-200" type="line"/>
+      <point x="150.095" y="-200"/>
+      <point x="80.097" y="-201"/>
+      <point x="80.0453" y="-99" type="curve" smooth="yes"/>
+      <point x="80" y="-9.74451"/>
+      <point x="174.253" y="121.338"/>
+      <point x="220.053" y="188.401" type="curve"/>
+      <point x="220.053" y="319.999" type="line"/>
+    </contour>
+    <contour>
+      <point x="221.053" y="500" type="line"/>
+      <point x="221.053" y="420" type="line"/>
+      <point x="301.053" y="420" type="line"/>
+      <point x="301.053" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

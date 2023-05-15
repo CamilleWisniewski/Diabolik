@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="2">
+  <advance width="421"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="40" type="line"/>
+      <point x="90" y="40" type="line"/>
+      <point x="90" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="130" type="line"/>
+      <point x="100" y="287.599" type="line"/>
+      <point x="153.8" y="354.661"/>
+      <point x="298.135" y="525.748"/>
+      <point x="299.03" y="623" type="curve" smooth="yes"/>
+      <point x="299.61" y="686.001"/>
+      <point x="196.383" y="679.94"/>
+      <point x="80" y="679.94" type="curve"/>
+      <point x="80" y="700" type="line"/>
+      <point x="249.958" y="700"/>
+      <point x="319.958" y="700"/>
+      <point x="320.001" y="619" type="curve" smooth="yes"/>
+      <point x="320.054" y="519.744"/>
+      <point x="188.8" y="365.662"/>
+      <point x="120" y="278.599" type="curve"/>
+      <point x="120" y="130.001" type="line"/>
+    </contour>
+  </outline>
+</glyph>

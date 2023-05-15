@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="2">
+  <advance width="480"/>
+  <unicode hex="00FC"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresis" xOffset="113" yOffset="-150"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>u</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>u</string>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni0308</string>
+  </dict>
+  </lib>
+</glyph>

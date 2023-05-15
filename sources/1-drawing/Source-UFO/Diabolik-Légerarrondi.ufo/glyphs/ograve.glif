@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ograve" format="2">
+  <advance width="432"/>
+  <unicode hex="00F2"/>
+  <outline>
+    <component base="o"/>
+    <component base="grave" xOffset="119.578"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>o</string>
+  <key>com.fontlab.recipe</key>
+  <string>o+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

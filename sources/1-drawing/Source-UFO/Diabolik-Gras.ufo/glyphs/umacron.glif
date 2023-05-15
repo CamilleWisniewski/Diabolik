@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="umacron" format="2">
+  <advance width="742"/>
+  <unicode hex="016B"/>
+  <outline>
+    <component base="u"/>
+    <component base="macron" xOffset="185.67" yOffset="25"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>u</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>u</string>
+  <key>com.fontlab.recipe</key>
+  <string>u+macron</string>
+  </dict>
+  </lib>
+</glyph>

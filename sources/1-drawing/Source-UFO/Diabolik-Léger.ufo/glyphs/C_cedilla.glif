@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccedilla" format="2">
+  <advance width="528"/>
+  <unicode hex="00C7"/>
+  <outline>
+    <component base="C"/>
+    <component base="cedilla" xOffset="248"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>C</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>C</string>
+  <key>com.fontlab.recipe</key>
+  <string>C+uni0327</string>
+  </dict>
+  </lib>
+</glyph>

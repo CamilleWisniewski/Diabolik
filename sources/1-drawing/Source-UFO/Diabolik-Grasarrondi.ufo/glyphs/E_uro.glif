@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="2">
+  <advance width="560"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="37" y="245" type="line"/>
+      <point x="37" y="345" type="line"/>
+      <point x="367" y="345" type="line"/>
+      <point x="367" y="215" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="394" type="line"/>
+      <point x="37" y="494" type="line"/>
+      <point x="367" y="494" type="line"/>
+      <point x="367" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="539.168" y="79.6592" type="line"/>
+      <point x="493.843" y="35.0864"/>
+      <point x="429.592" y="-9.99509"/>
+      <point x="331.844" y="-10" type="curve" smooth="yes"/>
+      <point x="104.935" y="-10.0114"/>
+      <point x="72.6594" y="233.283"/>
+      <point x="72.2906" y="349.832" type="curve" smooth="yes"/>
+      <point x="71.9576" y="455.041"/>
+      <point x="105.961" y="710.126"/>
+      <point x="335.653" y="710.132" type="curve" smooth="yes"/>
+      <point x="433.47" y="710.135"/>
+      <point x="495.481" y="664.771"/>
+      <point x="525.287" y="620.465" type="curve"/>
+      <point x="445.067" y="453" type="line"/>
+      <point x="431.316" y="478"/>
+      <point x="405.601" y="521.529"/>
+      <point x="366.365" y="521.529" type="curve" smooth="yes"/>
+      <point x="300.158" y="521.529"/>
+      <point x="265.937" y="455.668"/>
+      <point x="265.937" y="348.126" type="curve" smooth="yes"/>
+      <point x="265.937" y="263"/>
+      <point x="291.235" y="176.352"/>
+      <point x="370.836" y="175.942" type="curve" smooth="yes"/>
+      <point x="414.016" y="175.72"/>
+      <point x="440.273" y="185.437"/>
+      <point x="488.623" y="224.442" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>C</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>C</string>
+  </dict>
+  </lib>
+</glyph>

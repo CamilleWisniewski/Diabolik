@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+  <advance width="236"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="108" y="500" type="curve" smooth="yes"/>
+      <point x="98.6662" y="490.666"/>
+      <point x="98.6662" y="469.334"/>
+      <point x="108" y="460" type="curve" smooth="yes"/>
+      <point x="117.334" y="450.666"/>
+      <point x="138.666" y="450.666"/>
+      <point x="148" y="460" type="curve" smooth="yes"/>
+      <point x="157.334" y="469.334"/>
+      <point x="157.334" y="490.666"/>
+      <point x="148" y="500" type="curve" smooth="yes"/>
+      <point x="138.666" y="509.334"/>
+      <point x="117.334" y="509.334"/>
+    </contour>
+    <contour>
+      <point x="138" y="370" type="line"/>
+      <point x="138" y="-200" type="line"/>
+      <point x="118" y="-200" type="line"/>
+      <point x="118" y="370" type="line"/>
+    </contour>
+  </outline>
+</glyph>

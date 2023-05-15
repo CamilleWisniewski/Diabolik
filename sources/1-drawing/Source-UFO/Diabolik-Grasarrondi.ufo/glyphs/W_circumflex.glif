@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wcircumflex" format="2">
+  <advance width="962"/>
+  <unicode hex="0174"/>
+  <outline>
+    <component base="W"/>
+    <component base="circumflex" xOffset="287.17" yOffset="125"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>W</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>W</string>
+  <key>com.fontlab.recipe</key>
+  <string>W+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

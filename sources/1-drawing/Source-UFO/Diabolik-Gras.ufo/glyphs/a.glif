@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="2">
+  <advance width="731"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="701" y="500" type="line"/>
+      <point x="501" y="500" type="line"/>
+      <point x="490" y="84" type="line"/>
+      <point x="442" y="500" type="line"/>
+      <point x="337" y="530"/>
+      <point x="198" y="530"/>
+      <point x="90" y="500" type="curve"/>
+      <point x="32" y="285" type="line"/>
+      <point x="32" y="138"/>
+      <point x="74" y="0.279999"/>
+      <point x="212" y="0.0176988" type="curve" smooth="yes"/>
+      <point x="326.536" y="-0.199901"/>
+      <point x="421" y="107"/>
+      <point x="433" y="158" type="curve"/>
+      <point x="406" y="391" type="line"/>
+      <point x="350" y="248"/>
+      <point x="319.997" y="171.54"/>
+      <point x="265" y="171" type="curve" smooth="yes"/>
+      <point x="220.04" y="170.559"/>
+      <point x="207" y="222"/>
+      <point x="207" y="277" type="curve"/>
+      <point x="248" y="348" type="line"/>
+      <point x="284" y="358" type="line"/>
+      <point x="353" y="0" type="line"/>
+      <point x="643" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>n</string>
+  </dict>
+  </lib>
+</glyph>

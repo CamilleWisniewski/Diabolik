@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucircumflex" format="2">
+  <advance width="525"/>
+  <unicode hex="00FB"/>
+  <outline>
+    <component base="u"/>
+    <component base="circumflex" xOffset="113.67" yOffset="-50"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>u</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>u</string>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni0302</string>
+  </dict>
+  </lib>
+</glyph>

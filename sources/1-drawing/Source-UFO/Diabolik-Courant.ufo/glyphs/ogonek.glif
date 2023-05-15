@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+  <advance width="185"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="44.0119" y="0.8616" type="line"/>
+      <point x="24.7844" y="-54.6441" type="line" smooth="yes"/>
+      <point x="12.1016" y="-91.257"/>
+      <point x="25.0858" y="-132.363"/>
+      <point x="67" y="-125" type="curve" smooth="yes"/>
+      <point x="141" y="-112" type="line"/>
+      <point x="141" y="-32" type="line"/>
+      <point x="88.3077" y="-59.3071" type="line" smooth="yes"/>
+      <point x="74.8036" y="-66.3055"/>
+      <point x="65.5451" y="-50.8911"/>
+      <point x="84.3608" y="-41.1929" type="curve" smooth="yes"/>
+      <point x="164.012" y="-0.138415" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+uni0328</string>
+  </dict>
+  </lib>
+</glyph>

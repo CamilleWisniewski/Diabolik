@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="2">
+  <advance width="185"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="30" y="637.5" type="curve" smooth="yes"/>
+      <point x="30" y="603.3"/>
+      <point x="58.3" y="575"/>
+      <point x="92.5" y="575" type="curve" smooth="yes"/>
+      <point x="126.7" y="575"/>
+      <point x="155" y="603.3"/>
+      <point x="155" y="637.5" type="curve" smooth="yes"/>
+      <point x="155" y="672.35"/>
+      <point x="127.05" y="700"/>
+      <point x="92.5" y="700" type="curve" smooth="yes"/>
+      <point x="58.3" y="700"/>
+      <point x="30" y="671.7"/>
+    </contour>
+    <contour>
+      <point x="81.05" y="638.25" type="curve" smooth="yes"/>
+      <point x="81.05" y="644.9"/>
+      <point x="86.55" y="650.45"/>
+      <point x="93.25" y="650.45" type="curve" smooth="yes"/>
+      <point x="99.9" y="650.45"/>
+      <point x="105.45" y="644.9"/>
+      <point x="105.45" y="638.25" type="curve" smooth="yes"/>
+      <point x="105.45" y="631.55"/>
+      <point x="99.9" y="626.05"/>
+      <point x="93.25" y="626.05" type="curve" smooth="yes"/>
+      <point x="86.55" y="626.05"/>
+      <point x="81.05" y="631.55"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+uni030A</string>
+  </dict>
+  </lib>
+</glyph>

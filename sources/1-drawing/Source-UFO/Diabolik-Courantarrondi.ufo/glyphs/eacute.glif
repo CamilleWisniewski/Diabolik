@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eacute" format="2">
+  <advance width="427"/>
+  <unicode hex="00E9"/>
+  <outline>
+    <component base="e"/>
+    <component base="acute" xOffset="115.5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>e</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>e</string>
+  <key>com.fontlab.recipe</key>
+  <string>e+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

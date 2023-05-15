@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflex" format="2">
+  <advance width="586"/>
+  <unicode hex="00D4"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflex" xOffset="177.17" yOffset="125"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  <key>com.fontlab.recipe</key>
+  <string>O+uni0302</string>
+  </dict>
+  </lib>
+</glyph>

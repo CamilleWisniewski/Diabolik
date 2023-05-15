@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="2">
+  <advance width="290"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="20" y="583" type="line"/>
+      <point x="95" y="624.101" type="line"/>
+      <point x="195" y="576" type="line"/>
+      <point x="270" y="617" type="line"/>
+      <point x="270" y="770.318" type="line"/>
+      <point x="195" y="729.318" type="line"/>
+      <point x="94.8209" y="777.318" type="line"/>
+      <point x="20" y="736.318" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

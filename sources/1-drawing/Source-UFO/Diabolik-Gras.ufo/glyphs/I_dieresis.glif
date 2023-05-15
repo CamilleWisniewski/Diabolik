@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="2">
+  <advance width="300"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresis" xOffset="-72"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>I</string>
+  <key>com.fontlab.recipe</key>
+  <string>I+uni0308</string>
+  </dict>
+  </lib>
+</glyph>

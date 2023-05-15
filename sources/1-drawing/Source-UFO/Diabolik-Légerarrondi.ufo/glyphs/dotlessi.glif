@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="2">
+  <advance width="113"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="83" y="500" type="line"/>
+      <point x="69.13" y="428.72"/>
+      <point x="54.4379" y="356.431"/>
+      <point x="54" y="284" type="curve" smooth="yes"/>
+      <point x="53.4324" y="190.116"/>
+      <point x="67.4" y="93.72"/>
+      <point x="74" y="0" type="curve"/>
+      <point x="54" y="0" type="line"/>
+      <point x="47.4" y="93.72"/>
+      <point x="33.6199" y="190.109"/>
+      <point x="34" y="284" type="curve" smooth="yes"/>
+      <point x="34.293" y="356.374"/>
+      <point x="48.46" y="428.72"/>
+      <point x="62" y="500" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>i</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>i</string>
+  <key>com.fontlab.recipe</key>
+  <string>i%</string>
+  </dict>
+  </lib>
+</glyph>

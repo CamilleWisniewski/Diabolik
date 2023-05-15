@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zdotaccent" format="2">
+  <advance width="459"/>
+  <unicode hex="017B"/>
+  <outline>
+    <component base="Z"/>
+    <component base="dotaccent" xOffset="181.5" yOffset="52"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Z</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Z</string>
+  <key>com.fontlab.recipe</key>
+  <string>Z+dotaccent</string>
+  </dict>
+  </lib>
+</glyph>

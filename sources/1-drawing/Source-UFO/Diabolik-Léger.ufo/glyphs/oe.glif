@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="2">
+  <advance width="726"/>
+  <unicode hex="0153"/>
+  <outline>
+    <component base="o" yOffset="-7"/>
+    <component base="e" xOffset="341"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>e</string>
+  <key>com.fontlab.recipe</key>
+  <string>o_e</string>
+  </dict>
+  </lib>
+</glyph>

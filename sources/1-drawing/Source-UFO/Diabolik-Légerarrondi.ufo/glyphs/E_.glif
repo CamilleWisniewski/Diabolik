@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="2">
+  <advance width="452"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="110" y="700" type="curve"/>
+      <point x="410" y="700" type="line"/>
+      <point x="410" y="680" type="line"/>
+      <point x="120" y="680" type="line"/>
+      <point x="78" y="680"/>
+      <point x="60.2654" y="669.876"/>
+      <point x="60" y="620" type="curve"/>
+      <point x="60" y="382" type="line"/>
+      <point x="350" y="382" type="line"/>
+      <point x="350" y="362" type="line"/>
+      <point x="60" y="362" type="line"/>
+      <point x="60" y="260.939" type="line"/>
+      <point x="60" y="80" type="line"/>
+      <point x="60" y="30"/>
+      <point x="78" y="20"/>
+      <point x="120" y="20" type="curve"/>
+      <point x="420" y="20" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="50.0083" y="0"/>
+      <point x="40" y="40.4353"/>
+      <point x="40" y="78" type="curve"/>
+      <point x="40" y="622" type="line"/>
+      <point x="40.224" y="674.373"/>
+      <point x="63.2225" y="700"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  </dict>
+  </lib>
+</glyph>

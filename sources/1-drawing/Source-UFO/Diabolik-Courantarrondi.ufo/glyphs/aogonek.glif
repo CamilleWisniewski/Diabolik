@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek" format="2">
+  <advance width="542"/>
+  <unicode hex="0105"/>
+  <outline>
+    <component base="a"/>
+    <contour>
+      <point x="345.012" y="10.8616" type="line"/>
+      <point x="325.784" y="-44.6441" type="line" smooth="yes"/>
+      <point x="313.102" y="-81.257"/>
+      <point x="326.086" y="-122.363"/>
+      <point x="368" y="-115" type="curve" smooth="yes"/>
+      <point x="442" y="-102" type="line"/>
+      <point x="442" y="-22" type="line"/>
+      <point x="389.308" y="-49.3071" type="line" smooth="yes"/>
+      <point x="375.804" y="-56.3055"/>
+      <point x="370.991" y="-46.7366"/>
+      <point x="385.361" y="-31.1929" type="curve" smooth="yes"/>
+      <point x="427.012" y="13.8616" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>a</string>
+  <key>com.fontlab.recipe</key>
+  <string>a+>~ogonek</string>
+  </dict>
+  </lib>
+</glyph>

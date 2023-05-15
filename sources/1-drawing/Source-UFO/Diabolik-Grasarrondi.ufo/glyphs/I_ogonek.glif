@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="2">
+  <advance width="287"/>
+  <unicode hex="012E"/>
+  <outline>
+    <component base="I" xOffset="2"/>
+    <component base="ogonek" xScale="0.8183" yScale="1.0036" xOffset="-2.1468" yOffset="0.7114"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>l</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l</string>
+  <key>com.fontlab.recipe</key>
+  <string>I+>ogonek</string>
+  </dict>
+  </lib>
+</glyph>

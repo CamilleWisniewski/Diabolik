@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="egrave" format="2">
+  <advance width="427"/>
+  <unicode hex="00E8"/>
+  <outline>
+    <component base="e"/>
+    <component base="grave" xOffset="85.5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>e</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>e</string>
+  <key>com.fontlab.recipe</key>
+  <string>e+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>
